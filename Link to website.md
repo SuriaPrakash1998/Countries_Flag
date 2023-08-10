@@ -50,7 +50,7 @@ Place the provided JavaScript code within a <script> tag in the HTML file, after
 Conclusion
 The provided JavaScript code demonstrates the use of asynchronous programming concepts to fetch and display country data using dynamically generated card components. By using the getData function for fetching and the countriesFlag function for rendering, the code achieves efficient data retrieval and a visually appealing user interface for displaying country flags and information.
 
-Feel free to adapt and expand this documentation to suit your specific needs and context.
+
 
 
 
